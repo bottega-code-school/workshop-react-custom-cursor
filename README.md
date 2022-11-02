@@ -6,7 +6,3 @@
 - Configure an SVG to function as a custom mouse cursor
 - Build CSS styles to override the default browser cursor settings
 - Integrate device guards for mobile users
-
-## Example:
-
-- [Museum of Ice Cream](https://www.museumoficecream.com/)
