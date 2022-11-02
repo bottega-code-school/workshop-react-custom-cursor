@@ -1,5 +1,4 @@
 import * as React from "react";
-import { CustomCursor } from "./CustomCursor";
 import NavBar from "./NavBar";
 
 type Props = {
@@ -8,7 +7,6 @@ type Props = {
 const Layout = ({ children }: Props) => {
   return (
     <div>
-      <CustomCursor />
       <NavBar />
 
       <div className="container">
